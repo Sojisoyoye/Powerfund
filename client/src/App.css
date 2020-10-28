@@ -1,0 +1,71 @@
+.timeline {
+  background-color: skyblue;
+  border: 1px solid skyblue;
+  border-radius: 3px;
+}
+
+.account {
+  background-color: rgb(232, 236, 238);
+  border: 1px solid rgb(232, 236, 238);
+  border-radius: 3px;
+  box-shadow: 0px 0px 14px 0 rgba(230, 232, 240, 1);
+}
+
+.card-body .chip {
+  background-color: #e8f0fe;
+  color: #174ea6;
+  border-radius: 4px;
+  font: 500 11px Roboto, Noto Sans, Noto Sans JP, Noto Sans KR,
+    Noto Naskh Arabic, Noto Sans Thai, Noto Sans Hebrew, Noto Sans Bengali,
+    sans-serif;
+  letter-spacing: 0.8px;
+  line-height: 16px;
+  padding: 3px 8px 1px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  align-items: center;
+}
+
+.value2 {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin: 0;
+  font-size: 22px;
+}
+
+.headline {
+  font-size: 32px;
+  line-height: 40px;
+  font-family: Google Sans, Noto Sans, Noto Sans JP, Noto Sans KR,
+    Noto Naskh Arabic, Noto Sans Thai, Noto Sans Hebrew, Noto Sans Bengali,
+    sans-serif;
+  font-weight: 500;
+  letter-spacing: 0;
+  margin: 0;
+  color: #5f6368;
+}
+
+.list-group-item .label1 {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.list-group-item .value1 {
+  color: #5f6368;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.invest-form {
+  margin-top: 45px;
+}
+
+.with-text {
+  font-size: 14px;
+}
